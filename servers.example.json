@@ -1,0 +1,11 @@
+{
+  "servers": [
+    { "name": "Principal", "address": "203.0.113.10:27016" },
+    { "name": "Teste", "address": "203.0.113.10:27116" }
+  ],
+  "interval": "30s",
+  "timeout": "3s",
+  "fail_threshold": 3,
+  "history_size": 2880,
+  "webhook_url": ""
+}
